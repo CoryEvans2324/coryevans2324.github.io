@@ -1,0 +1,56 @@
+/*
+    COLOURS:
+        https://coolors.co/777777-e6e8e6-37323e-45503b-5da9e9
+
+    #777777
+    #e6e8e6
+    #37323e
+    #45503b
+    #5da9e9
+ */
+
+body
+{
+    background-color: #E6E8E6;
+    margin: 60px auto;
+    width: 70%;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content
+{
+    color: #37323E;
+}
+
+a
+{
+    text-decoration: none;
+    color: #999999;
+}
+
+nav ul, footer ul
+{
+    font-size: 1em;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li
+{
+    display: inline;
+    margin-right: 30px;
+}
+
+nav
+{
+    margin-bottom: 30px;
+}
+
+footer
+{
+    margin-top: 30px;
+    border-top: 1px solid #777777;
+    font-size: .8em;
+}
